@@ -1,0 +1,2 @@
+# bitrix-symlink
+Create symlink
